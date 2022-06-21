@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "combiroc"]
+	path = combiroc
+	url = https://github.com/ingmbioinfo/combiroc
+	shallow = true
+	registered = true

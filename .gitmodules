@@ -8,3 +8,13 @@
 	url = https://github.com/ingmbioinfo/combiroc
 	shallow = true
 	registered = true
+[submodule "SeuratData"]
+	path = SeuratData
+	url = https://github.com/satijalab/seurat-data
+	shallow = true
+	registered = false
+[submodule "SeuratDisk"]
+	path = SeuratDisk
+	url = https://github.com/mojaveazure/seurat-disk
+	shallow = true
+	registered = false
